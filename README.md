@@ -1,4 +1,4 @@
-# Banking System (Python OOP Project)
+# Banking System
 
 This project is a command-line banking system built in Python that demonstrates core object-oriented programming concepts such as abstraction, inheritance, encapsulation, and polymorphism.
 
