@@ -197,5 +197,4 @@ Possible enhancements for future versions of the system include:
 ## Author
 
 Ahmad Zayour  
-Computer Science Student  
-University of Michigan–Dearborn
+Software Developer
